@@ -1,0 +1,10 @@
+.classpath
+.idea
+.settings
+.project
+bin
+
+
+
+# Project exclude paths
+/target/
